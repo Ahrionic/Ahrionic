@@ -3,9 +3,9 @@
 ### I'm a Software Engineer & Web Developer
 ***
 -💻 Some of my projects include:
-* iCard
-* Weather App
-* Readme Generator
+* [iCard](https://icardcreator.herokuapp.com/)
+* [Weather App](https://github.com/Ahrionic/Weather-Dashboard)
+* [Readme Generator](https://github.com/Ahrionic/readMe-Generator#description)
 ***
 -💬 I am currently working on:
 * A healthy eating and exercise app, name TBD
