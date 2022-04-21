@@ -4,7 +4,7 @@
 ***
 -💻 Some of my projects include:
 * [iCard](https://icardcreator.herokuapp.com/)
-* [Weather App](https://github.com/Ahrionic/Weather-Dashboard)
+* [Weather App](https://ahrionic.github.io/Weather-Dashboard/)
 * [Readme Generator](https://github.com/Ahrionic/readMe-Generator#description)
 ***
 -💬 I am currently working on:
