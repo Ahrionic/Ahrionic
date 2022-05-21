@@ -13,11 +13,13 @@
 * A single-player visual novel, name TBD
 * A deep dungeon card game, name TBD
 ***
--📚 I am
-* A student, studying computer science at Saddleback Community College & UCI BootCamp. Hoping to one day get a bachelors in Computer Science.
-* A Very hardworker and a fast learner
-* Eager to learn new things and apply them to my future projects
-* A lover of video games
+-📚 Education
+* ![react-js (1)](https://user-images.githubusercontent.com/39642290/169638552-62013ff2-53bc-455f-be57-cad1e2f3dd31.png)
+![sql-and-nosql-databases (1)](https://user-images.githubusercontent.com/39642290/169638557-53057cdf-69ed-4c11-8939-029fe136d7cb.png)
+![html-css (1)](https://user-images.githubusercontent.com/39642290/169638568-21dffd5b-8707-43e7-a60a-6dfc53543638.png)
+![javascript-and-jquery (1)](https://user-images.githubusercontent.com/39642290/169638569-6c4e5c2e-2bc3-4567-84eb-9c1df6541fdd.png)
+![node-js-and-express (1)](https://user-images.githubusercontent.com/39642290/169638570-9e74b1d2-0e56-48ea-aed8-b36412abd50c.png)
+
 ***
 📫 To Contact Me: Koreyluu@gmail.com
 
