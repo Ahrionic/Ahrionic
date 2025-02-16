@@ -24,5 +24,3 @@
 📫 To Contact Me: Koreyluu@gmail.com
 
 📙 Find Me At: [LinkdIn](https://www.linkedin.com/in/korey-luu-b21640230/)
-
-🐦Social: [Twitter](https://twitter.com/Ahrionic)
