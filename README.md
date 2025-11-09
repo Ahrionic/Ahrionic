@@ -1,5 +1,5 @@
 
-# :cherry_blossom::purple_heart: Hello I'm Korey Luu AKA Ahrionic
+# :cherry_blossom::purple_heart: Hello I'm Korey Luu
 ### I'm a Software Engineer & Web Developer
 ***
 -💻 Some of my projects include:
